@@ -20,5 +20,11 @@
   "dependencies": {
     "gulp": "^3.9.1",
     "gulp-less": "^3.3.0"
-  }
+  },
+    "name": "tam-taram",
+    "scripts": {
+        "dev": "nuxt"
+    }
+
 }
+
